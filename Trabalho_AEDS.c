@@ -1,3 +1,5 @@
+/*A implementação desse código tem por objetivo encontrar as palavras repetidas em um arquivo de texto e coloca-lás em uma fila de prioridade*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
